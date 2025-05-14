@@ -1,10 +1,9 @@
 # Ashish Anand
 
-Email: aasshishh@gmail.com
-LinkedIn: [www.linkedin.com/in/aasshishh/](https://www.linkedin.com/in/aasshishh/)
-GitHub: [https://github.com/aasshishh/](https://github.com/aasshishh/)
-
-London
+**Email**: *[aasshishh@gmail.com](aasshishh@gmail.com)*
+**LinkedIn**: *[www.linkedin.com/in/aasshishh/](https://www.linkedin.com/in/aasshishh/)*
+**GitHub**: *[https://github.com/aasshishh/](https://github.com/aasshishh/)*
+<ins>London</ins>
 
 ## Summary
 
