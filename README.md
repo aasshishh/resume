@@ -1,3 +1,4 @@
+<div align="center">
 # Ashish Anand
 
 **Email**: *[aasshishh@gmail.com](aasshishh@gmail.com)*
@@ -5,6 +6,7 @@
 **GitHub**: *[https://github.com/aasshishh/](https://github.com/aasshishh/)*
 
 <ins>London</ins>
+</div>
 
 ## Summary
 
