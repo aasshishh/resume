@@ -8,7 +8,7 @@
 
 ## Summary
 
-Highly accomplished and versatile Software Engineering Leader with 13+ years of experience driving innovation across multiple big tech companies, products, and platforms. Proven track record of delivering high-quality solutions, leading cross-functional teams, and mentoring junior engineers to drive growth and success with string problem solving-skills. Currently focused on upskilling and exploring upcoming technologies to enhance my capabilities and stay at the forefront of the industry.
+Highly accomplished and versatile Software Engineering Leader with decades of experience driving innovation across multiple big tech companies, products, and platforms. Proven track record of delivering high-quality solutions, leading cross-functional teams, and mentoring junior engineers to drive growth and success with string problem solving-skills. Currently focused on upskilling and exploring upcoming technologies to enhance my capabilities and stay at the forefront of the industry.
 
 ## Technical Expertise
 
@@ -16,7 +16,7 @@ As a versatile Product Generalist, I have developed an ability to adapt to any p
 
 At work, I have primarily developed in the following languages: C++, C#, Java, React, JS, Python.
 
-I have strong expertise in the following domains:
+I have expertise and hands-on in the following domains:
 - Data Structures
 - Algorithms
 - Object-Oriented Design
@@ -24,6 +24,8 @@ I have strong expertise in the following domains:
 - Distributed Systems
 - Microservices Architecture
 - Backend Engineering
+- Full-Stack Development
+- AI Engineering
 
 ## Leadership Experience
 
@@ -31,6 +33,28 @@ I have strong expertise in the following domains:
 - Mentored junior engineers, fostering technical growth and knowledge sharing
 - Collaborated with stakeholders to define project requirements and goals, ensuring alignment and successful outcomes
 - Implemented process improvements, product improvements, enhancing efficiency and quality through data-driven decision making
+
+## Key Achievements
+
+- Orchestrated, the delivery of critical features, 3P SDK integrations, rapid prototyping, increased observability, within a complex product architecture spanning multiple tech stacks. Effectively managed cross-functional dependencies and delivered as both a Individual Contributor (IC) and Tech Lead (TL).
+- Led the effort of implementation of distributed system testing and debugging capabilities to bring increased stability and performance of the products.
+- Played a key role in Google Assistant NBU as a founding engineer, utilizing comprehensive user behavior analysis to inform strategic investment decisions, laying out foundations of tech stack, resulting in the successful development and implementation of high-impact features.
+- Contributed to system stability and operational excellence through extensive on-call experience and release cycle ownership, consistently resolving issues, implementing enhancements to alerting and monitoring, and ensuring seamless releases.
+
+
+## Recent Engagements
+
+### Upskilling & Re-skilling
+Intensive upskilling, focusing on becoming a well-rounded software engineer with an emphasis on practical application and modern development practices.
+
+### Application Development & Deployment
+Designed, built, and deployed two significant applications:
+Developers Folio [developersfolio.com](https://developersfolio.com/): An online platform for professionals to showcase work, connect, and explore job opportunities.
+NewsWire [newsuniverse.xyz](https://newsuniverse.xyz): A personalized news aggregator, similar to Google News, offering customized user experiences.
+
+### Pivoting to AI & ML Engineering
+Currently focused on AI engineering, actively building AI-enabled products. Future plans include transitioning to ML engineering, leveraging my Integrated M.Sc. in Mathematics and Computing for impactful AI product development.
+
 
 ## Work History
 
@@ -79,9 +103,4 @@ And a couple more before that in telecom sector companies.
 Indian Institute of Technology (ISM / IIT), Dhanbad, India
 Jul 2006 - May 2011
 
-## Key Achievements
 
-- Orchestrated, the delivery of critical features, 3P SDK integrations, rapid prototyping, increased observability, within a complex product architecture spanning multiple tech stacks, contributing code in C#, C++, React, Hack, and GraphQL. Effectively managed cross-functional dependencies and delivered as both a Individual Contributor (IC) and Tech Lead (TL).
-- Led the effort of implementation of distributed system testing and debugging capabilities to bring increased stability and performance of the products.
-- Played a key role in Google Assistant NBU as a founding engineer, utilizing comprehensive user behavior analysis to inform strategic investment decisions, laying out foundations of tech stack, resulting in the successful development and implementation of high-impact features.
-- Contributed to system stability and operational excellence through extensive on-call experience and release cycle ownership, consistently resolving issues, implementing enhancements to alerting and monitoring, and ensuring seamless releases.
