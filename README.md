@@ -43,9 +43,10 @@ I have expertise and hands-on in the following domains:
 
 
 ## Recent Engagements
+*London, Apr 2025 - Present*
 
-### Upskilling & Re-skilling
-Intensive upskilling, focusing on becoming a well-rounded software engineer with an emphasis on practical application and modern development practices.
+### Independent Skill Enhancement & Technology Exploration
+Actively engaged in advanced learning and exploration of emerging technologies to deepen expertise and remain at the cutting edge of software engineering innovation.
 
 ### Application Development & Deployment
 Spearheaded the end-to-end development and deployment of two web applications, demonstrating full-stack proficiency and proactive skill application:
@@ -57,11 +58,6 @@ Currently focused on AI engineering, actively building AI-enabled products. Futu
 
 
 ## Work History
-
-### Independent Skill Enhancement & Technology Exploration
-*London, Apr 2025 - Present*
-
-- Actively engaged in advanced learning and exploration of emerging technologies to deepen expertise and remain at the cutting edge of software engineering innovation.
 
 ### Meta, Software Engineer
 *LONDON, Feb 2022 - Mar 2025*
