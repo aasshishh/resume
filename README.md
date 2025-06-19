@@ -48,9 +48,9 @@ I have expertise and hands-on in the following domains:
 Intensive upskilling, focusing on becoming a well-rounded software engineer with an emphasis on practical application and modern development practices.
 
 ### Application Development & Deployment
-Designed, built, and deployed two significant applications:
-Developers Folio [developersfolio.com](https://developersfolio.com/): An online platform for professionals to showcase work, connect, and explore job opportunities.
-NewsWire [newsuniverse.xyz](https://newsuniverse.xyz): A personalized news aggregator, similar to Google News, offering customized user experiences.
+Spearheaded the end-to-end development and deployment of two web applications, demonstrating full-stack proficiency and proactive skill application:
+*   **Developers Folio** ([developersfolio.com](https://developersfolio.com/)): An online platform for professionals to showcase work, connect, and explore job opportunities.
+*   **NewsWire** ([newsuniverse.xyz](https://newsuniverse.xyz)): A personalized news aggregator, similar to Google News, offering customized user experiences.
 
 ### Pivoting to AI & ML Engineering
 Currently focused on AI engineering, actively building AI-enabled products. Future plans include transitioning to ML engineering, leveraging my Integrated M.Sc. in Mathematics and Computing for impactful AI product development.
@@ -102,5 +102,3 @@ And a couple more before that in telecom sector companies.
 ### Integrated M.Sc. in Mathematics and Computing
 Indian Institute of Technology (ISM / IIT), Dhanbad, India
 Jul 2006 - May 2011
-
-
