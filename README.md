@@ -49,8 +49,8 @@ Intensive upskilling, focusing on becoming a well-rounded software engineer with
 
 ### Application Development & Deployment
 Spearheaded the end-to-end development and deployment of two web applications, demonstrating full-stack proficiency and proactive skill application:
-*   **Developers Folio** ([developersfolio.com](https://developersfolio.com/)): An online platform for professionals to showcase work, connect, and explore job opportunities.
-*   **NewsWire** ([newsuniverse.xyz](https://newsuniverse.xyz)): A personalized news aggregator, similar to Google News, offering customized user experiences.
+*   **Developers Folio** (<a href="https://developersfolio.com/" target="_blank">developersfolio.com</a>): An online platform for professionals to showcase work, connect, and explore job opportunities.
+*   **NewsWire** (<a href="https://newsuniverse.xyz" target="_blank">newsuniverse.xyz</a>): A personalized news aggregator, similar to Google News, offering customized user experiences.
 
 ### Pivoting to AI & ML Engineering
 Currently focused on AI engineering, actively building AI-enabled products. Future plans include transitioning to ML engineering, leveraging my Integrated M.Sc. in Mathematics and Computing for impactful AI product development.
