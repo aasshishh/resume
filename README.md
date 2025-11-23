@@ -1,100 +1,77 @@
-<h1 style="text-align: center;">Ashish Anand</h1>
+# Ashish Anand
 
-**Email**: *[aasshishh@gmail.com](aasshishh@gmail.com)*  
-**LinkedIn**: *[www.linkedin.com/in/aasshishh/](https://www.linkedin.com/in/aasshishh/)*  
-**GitHub**: *[https://github.com/aasshishh/](https://github.com/aasshishh/)*  
+**Email:** _aasshishh@gmail.com_<br>
+**Linkedin:** _[www.linkedin.com/in/aasshishh/](www.linkedin.com/in/aasshishh/)_<br>
+**Github:** _[https://github.com/aasshishh/](https://github.com/aasshishh/)_<br>
+**Phone:** _+44-7815461855_<br>
+**Location:** _London_<br>
 
-<ins>London</ins>
+---
 
-## Summary
+## Professional Profile
 
-Highly accomplished and versatile Software Engineering Leader with decades of experience driving innovation across multiple big tech companies, products, and platforms. Proven track record of delivering high-quality solutions, leading cross-functional teams, and mentoring junior engineers to drive growth and success with string problem solving-skills. Currently focused on upskilling and exploring upcoming technologies to enhance my capabilities and stay at the forefront of the industry.
+**Highly accomplished and versatile Software Engineering Leader with over a decade of experience driving high-impact features from concept to delivery across multiple big tech companies and platforms.** Proven expertise in architecting Distributed Systems, Microservices, and scalable Backend solutions, demonstrated by the autonomous design, build, and deployment of a full-stack AI-powered Procurement Platform (GCP/Terraform, robust data infrastructure, agentic workflow).
 
-## Technical Expertise
+---
 
-As a versatile Product Generalist, I have developed an ability to adapt to any programming language, technology stack, or domain, allowing me to seamlessly transition between projects and teams. 
+## Core Expertise & Technical Proficiency
 
-At work, I have primarily developed in the following languages: C++, C#, Java, React, JS, Python.
+I leverage a Product Generalist mindset, adapting quickly to any technology stack or domain to deliver comprehensive full-stack solutions.
 
-I have expertise and hands-on in the following domains:
-- Data Structures
-- Algorithms
-- Object-Oriented Design
-- API Design
-- Distributed Systems
-- Microservices Architecture
-- Backend Engineering
-- Full-Stack Development
-- AI Engineering
+### Primary Engineering Focus:
 
-## Leadership Experience
+* **Backend & Architecture:** Distributed Systems, Microservices, API Design (REST/gRPC), Object-Oriented Design, Data Structures & Algorithms, System Stability.
+* **AI Engineering:** Prompt Engineering, Agentic Platform Design, Vector Databases, and integrating AI Tools (STT/TTS).
+* **Full-Stack Development:** React, JavaScript/TypeScript, C++, C#, Java, Python.
+* **Cloud & Deployment:** Hands-on expertise with modern full-stack development frameworks, deployment pipelines (CI/CD), and cloud-native solutions, including GCP, AWS, Azure, Terraform, Kubernetes (K8s), and Supabase.
 
-- Spearheaded cross-functional projects, driving high-impact results through effective collaboration and strategic planning
-- Mentored junior engineers, fostering technical growth and knowledge sharing
-- Collaborated with stakeholders to define project requirements and goals, ensuring alignment and successful outcomes
-- Implemented process improvements, product improvements, enhancing efficiency and quality through data-driven decision making
+---
 
-## Key Achievements
+## Leadership & Key Achievements
 
-- Orchestrated, the delivery of critical features, 3P SDK integrations, rapid prototyping, increased observability, within a complex product architecture spanning multiple tech stacks. Effectively managed cross-functional dependencies and delivered as both a Individual Contributor (IC) and Tech Lead (TL).
-- Led the effort of implementation of distributed system testing and debugging capabilities to bring increased stability and performance of the products.
-- Played a key role in Google Assistant NBU as a founding engineer, utilizing comprehensive user behavior analysis to inform strategic investment decisions, laying out foundations of tech stack, resulting in the successful development and implementation of high-impact features.
-- Contributed to system stability and operational excellence through extensive on-call experience and release cycle ownership, consistently resolving issues, implementing enhancements to alerting and monitoring, and ensuring seamless releases.
+* **Strategic Delivery:** Orchestrated the end-to-end delivery of critical features and 3P SDK integrations, successfully landing major partnerships and managing architecture across complex, multi-stack product lines. Served effectively as both an Individual Contributor (IC) and Technical Lead (TL).
+* **Platform Leadership:** Led the implementation of distributed system testing and debugging capabilities to bring increased stability and performance across product lines, resulting in significantly improved system health and a reduction in critical alerts and downtime.
+* **Founding Engineer Impact (Google Assistant NBU):** Played a key role as a founding engineer, utilizing comprehensive user behavior analysis to inform strategic investment decisions, lay the technical foundation, and drive the successful development of high-impact features.
+* **Operational Excellence:** Contributed to system stability and operational excellence through extensive on-call experience and release cycle ownership, consistently resolving issues, and implementing enhancements to alerting and monitoring for seamless releases.
+* **Team & Project Management:** Spearheaded and managed cross-functional projects, defined project requirements with stakeholders, and mentored junior engineers, consistently driving high-impact results through process and product improvements.
 
-
-## Recent Engagements
-*London, Apr 2025 - Present*
-
-### Independent Skill Enhancement & Technology Exploration
-Actively engaged in advanced learning and exploration of emerging technologies to deepen expertise and remain at the cutting edge of software engineering innovation.
-
-### Application Development & Deployment
-Spearheaded the end-to-end development and deployment of two web applications, demonstrating full-stack proficiency and proactive skill application:
-*   **Developers Folio** (<a href="https://developersfolio.com/" target="_blank">developersfolio.com</a>): An online platform for professionals to showcase work, connect, and explore job opportunities.
-*   **NewsWire** (<a href="https://echo-news-universe.netlify.app/" target="_blank">newsuniverse.xyz</a>): A personalized news aggregator, similar to Google News, offering customized user experiences.
-
-### Pivoting to AI & ML Engineering
-Currently focused on AI engineering, actively building AI-enabled products. Future plans include transitioning to ML engineering, leveraging my Integrated M.Sc. in Mathematics and Computing for impactful AI product development.
-
+---
 
 ## Work History
 
-### Meta, Software Engineer
-*LONDON, Feb 2022 - Mar 2025*
+**AccuRx, Software Engineer - Auth Platform** | LONDON, Aug 2025 – Present<br>
+*Authentication & Authorization Platform*<br>
+* Directed cross-functional technical teams in the large-scale re-architecture and optimization of a legacy system and database schema, successfully transforming platform efficiency and performance while managing the inherent complexity of modifying a live, mission-critical environment used by millions of global users.
 
-**Virtual Reality (VR)**
-- **Horizon Workrooms**: Part of the team that developed and enhanced VR-VC Bridge, a cutting-edge product that seamlessly connected the VR world with 2D surfaces, bridging the gap between immersive and traditional experiences.
-  - Technologies: C++, C#, React, Python, Unity
-- **Automation**: Increased stability and performance of VR call features by implementing Distributed system testing and debugging capabilities.
-- **SCRApps**: Run Apps (Browser) on Cloud and render it inside VR.
-  - Technologies: C++, webRTC
+**Independent Projects** | LONDON, Apr 2025 – July 2025<br>
+*Actively engaged in advanced learning and exploration of emerging technologies to deepen expertise and remain at the cutting edge of software engineering innovation.*
 
-### Google, Software Engineer
-*Bangalore, Dec 2014 - Jan 2022*
+* **[AI-powered Procurement Platform (procurement.smarter.ai)](procurement.smarter.ai)**
+    * Drove end-to-end development of a full-stack, AI-powered Procurement Platform, autonomously managing the product lifecycle from conception through production deployment.
+    * Engineered the entire solution utilizing a modern stack: Frontend (React, TypeScript), Backend (Python), and high-performance asynchronous REST/WebSocket APIs.
+    * Architected and deployed a robust, cloud-native infrastructure on GCP, leveraging Terraform for Infrastructure-as-Code (IaC) and implementing enterprise-grade security, monitoring, auditing, and CI/CD pipelines.
+    * Integrated a sophisticated agentic AI workflow supporting text and voice interactions (Elevenlabs STT/TTS), supported by a scalable data infrastructure combining Supabase (primary DB) and Pinecone (vector store).
+* **[Developers Folio](developersfolio.com)**
+* **[NewsWire](newsuniverse.xyz)**
 
-**Google Nest Commerce**
-- At Google, as part of the Nest Commerce team, I worked on the IAM tech stack to manage access to Nest Subscriptions and setting up email notifications for subscription change.
-  - Technologies: Java, IAM
+**Meta, Software Engineer - Virtual Reality (VR)** | _LONDON, Feb 2022 – Mar 2025_<br>
+* **Horizon Workrooms:** Part of the team that developed and enhanced VR-VC Bridge, a cutting-edge product that seamlessly connected the VR world with 2D surfaces, bridging the gap between immersive and traditional experiences. _(Technologies: C++, C#, React, Python, Unity)_<br>
+* **Automation:** Increased stability and performance of VR call features by implementing Distributed system testing and debugging capabilities.<br>
+* **SCRApps:** Run Apps (Browser) on Cloud and render it inside VR. _(Technologies: C++, webRTC)_<br>
 
-**Google Assistant NBU**
-- As part of the Google Assistant NBU team, I worked on developing end-to-end features on Google Assistant for NBU market on low-end Android devices, such as News and Cricket live game scores.
-  - Technologies: Javascript, KaiOS
+**Google, Software Engineer** | _Bangalore, Dec 2014 – Jan 2022_<br>
+* **Google Nest Commerce:** Worked on the IAM tech stack to manage access to Nest Subscriptions and setting up email notifications for subscription change. _(Technologies: Java, IAM)_<br>
+* **Google Assistant NBU:** Worked on developing end-to-end features on Google Assistant for NBU market on low-end Android devices, such as News and Cricket live game scores. _(Technologies: Javascript, KaiOS)_<br>
+* **GSuite:** Worked on supporting third-party GSuite resellers using reseller console APIs, to manage their orders, subscription and customers. _(Technologies: Java, APIs, Python)_<br>
 
-**GSuite**
-- As part of the GSuite team, I worked on supporting third party GSuite resellers using reseller console apis, to manage their orders, subscription and customers.
-  - Technologies: Java, APIs, Python
+**InMobi, Software Engineer - Adserve** | _Bangalore, July 2013 – Dec 2014_<br>
+* Worked on Ad Serving Infrastructure for Ads targeting and supporting more native ads formats. _(Technologies: Java)_<br>
+* *& a couple more before that in telecom sector companies*
 
-### InMobi, Software Engineer
-*Bangalore, July 2013 - Dec 2014*
-
-**Adserve**
-- At the InMobi Ad Serving team, I worked on Ad Serving Infrastructure for Ads targeting and supporting more native ads formats.
-  - Technologies: Java
-
-And a couple more before that in telecom sector companies.
+---
 
 ## Education
 
-### Integrated M.Sc. in Mathematics and Computing
-Indian Institute of Technology (ISM / IIT), Dhanbad, India
-Jul 2006 - May 2011
+**Integrated M.Sc. in Mathematics and Computing**<br>
+Indian Institute of Technology (ISM/IIT), Dhanbad, India<br>
+*Jul 2006 – May 2011*
